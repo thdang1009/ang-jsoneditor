@@ -2,7 +2,8 @@
 
 ## About this repository
 This is a fork of mariohmol's [ang-jsoneditor](https://github.com/mariohmol/ang-jsoneditor)
-with support for Angular 11, 12 and 13.
+This is a fork of mariohmol's [ang-jsoneditor](https://github.com/MaaxGr/ang-jsoneditor)
+with support for Angular 11, 12, 13, 14.
 This repository will probably become stale,
 when the original will be actively maintained again.
 
@@ -55,7 +56,7 @@ import { AngJsoneditorModule } from '@maaxgr/ang-jsoneditor'
     ....,
     // For Angular 11 + 12 
     NgJsonEditorModule,
-    // Starting Angular 13
+    // Starting Angular 13+
     AngJsoneditorModule,
   ],
   providers: [],
