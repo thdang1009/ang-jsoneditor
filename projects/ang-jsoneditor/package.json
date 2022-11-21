@@ -1,6 +1,6 @@
 {
   "name": "@thdang1009/ang-jsoneditor",
-  "version": "14.0.2",
+  "version": "14.0.3",
   "license": "MIT",
   "homepage": "https://github.com/thdang1009/ang-jsoneditor",
   "repository": {
@@ -16,8 +16,8 @@
     "angular"
   ],
   "peerDependencies": {
-    "@angular/common": "14.2.2",
-    "@angular/core": "14.2.2",
+    "@angular/common": "14.2.0",
+    "@angular/core": "14.2.0",
     "jsoneditor": "^9.1.4"
   },
   "dependencies": {
